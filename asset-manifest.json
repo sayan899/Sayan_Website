@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sayan_Website/static/css/main.fc02e07f.css",
-    "main.js": "/Sayan_Website/static/js/main.2b846ff8.js",
+    "main.js": "/Sayan_Website/static/js/main.3459fb38.js",
     "static/js/787.cce199b8.chunk.js": "/Sayan_Website/static/js/787.cce199b8.chunk.js",
     "static/media/bg_1.jpg": "/Sayan_Website/static/media/bg_1.de0c2eb39c223c4a120a.jpg",
     "static/media/bg_7.jpg": "/Sayan_Website/static/media/bg_7.43772e026a594fb168c2.jpg",
@@ -17,11 +17,11 @@
     "static/media/Resume.pdf": "/Sayan_Website/static/media/Resume.ac0398d4ca249e568588.pdf",
     "index.html": "/Sayan_Website/index.html",
     "main.fc02e07f.css.map": "/Sayan_Website/static/css/main.fc02e07f.css.map",
-    "main.2b846ff8.js.map": "/Sayan_Website/static/js/main.2b846ff8.js.map",
+    "main.3459fb38.js.map": "/Sayan_Website/static/js/main.3459fb38.js.map",
     "787.cce199b8.chunk.js.map": "/Sayan_Website/static/js/787.cce199b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc02e07f.css",
-    "static/js/main.2b846ff8.js"
+    "static/js/main.3459fb38.js"
   ]
 }
